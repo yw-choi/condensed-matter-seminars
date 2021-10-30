@@ -8,3 +8,5 @@ a curated list of condensed matter physics seminars and lectures
 
 
 ## Lectures
+- [Marcel Franz, Condensed Matter Physics (Perimeter Institute)](https://pirsa.org/search-talks?search_api_fulltext=marcel+franz) [YouTube](https://www.youtube.com/watch?v=nSXmB9hWj28&list=PLaNkJORnlhZnU0bY50l10qHmjFGMyTfXi)
+- [Anton Burkov, Statistical Mechanics (Perimeter Institute)](https://pirsa.org/C14042)
